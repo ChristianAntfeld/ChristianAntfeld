@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianAntfeld
-- 👀 I’m interested in web development to help others get what they want out of life.
+- 👀 I’m interested in web development & the technologies used to develop web apps
 - 🌱 I’m currently learning Web Development: HTML | CSS | JavaScript | Backend Technologies
 - 💞️ I’m looking to collaborate on web app development, testing, & optimizing use of web technologies
 - 📫 How to reach me: antfeldc@gmail.com
